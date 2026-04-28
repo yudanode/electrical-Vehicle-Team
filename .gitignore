@@ -1,0 +1,17 @@
+# Konfigurasi rahasia - jangan masuk Git
+.env
+
+# File upload dari admin - beda tiap komputer
+uploads/staff/*
+uploads/portofolio/*
+uploads/news/*
+
+# Tapi folder kosongnya tetap ikut Git
+!uploads/staff/.gitkeep
+!uploads/portofolio/.gitkeep
+!uploads/news/.gitkeep
+
+# File sistem OS - tidak perlu
+.DS_Store
+Thumbs.db
+desktop.ini

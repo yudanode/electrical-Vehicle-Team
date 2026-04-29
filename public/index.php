@@ -12,7 +12,7 @@
     <div>Logo</div>
     <div></div>
     <a href=""></a>
-    <h1>TEST 123 INI COBA GIT CLONE test</h1>
+    <h2>COBA AH</h2>
 </nav>
 
 <section class="home">

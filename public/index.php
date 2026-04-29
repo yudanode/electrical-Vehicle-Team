@@ -12,8 +12,7 @@
     <div>Logo</div>
     <div></div>
     <a href=""></a>
-    <h1>TEST 123 INI COBA GIT CLONE</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, earum?</p>
+    <h1>TEST 123 INI COBA GIT CLONE test</h1>
 </nav>
 
 <section class="home">

@@ -1,6 +1,6 @@
 <nav class="fixed top-0 left-0 right-0 z-[9999] flex items-center justify-between py-2 px-[6%] bg-black/80 backdrop-blur-sm border-b border-white/5">
 
-    <a href="" class="inline-block">
+    <a href="<?= BASE_URL ?>/index.php" class="inline-block">
         <img src="<?= BASE_URL ?>/assets/img/logo/L.svg"
             class="h-12 w-auto block"
             alt="Molikom" />
@@ -9,7 +9,7 @@
 
     <div class="hidden lg:flex items-center ml-auto gap-2">
 
-        <a href="../../../public/index.php"
+        <a href="<?= BASE_URL ?>/index.php"
             class="text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
             Home
         </a>

@@ -25,11 +25,16 @@
 
 <body class="bg-gray-500">
 
-    <nav class="flex fixed justify-betweens">
-        <a href="" class="inline-block">
-            <img src="/public/assets/img/logo/logo.png" alt="" class="h-12 w-auto block">
-        </a>
-    </nav>
+    <?php $pageTitle = 'Portofolio — Molikom'; ?>
+    <?php require_once '../../app/views/layouts/head.php'; ?>
+    <?php require_once '../../app/views/layouts/navbar.php'; ?>
+
+    
+    <main class="max-w-7xl mx-auto px-6 py-12">
+        ...
+    </main>
+
+    <?php require_once '../../app/views/layouts/footer.php'; ?>
 
 </body>
 

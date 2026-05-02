@@ -1,3 +1,4 @@
+<?php require_once dirname(__DIR__, 3) . '/app/config/app.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,5 +22,3 @@
 </head>
 
 <body class="bg-[#111111] text-white min-h-screen">
-
-

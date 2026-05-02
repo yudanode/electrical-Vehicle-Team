@@ -1,7 +1,7 @@
 <nav class="fixed top-0 left-0 right-0 z-[9999] flex items-center justify-between py-2 px-[6%] bg-black/80 backdrop-blur-sm border-b border-white/5">
 
-    <a href="../../public/index.php" class="inline-block">
-        <img src="../../../public/assets/img/logo/L.svg"
+    <a href="" class="inline-block">
+        <img src="<?= BASE_URL ?>/assets/img/logo/L.svg"
             class="h-12 w-auto block"
             alt="Molikom" />
     </a>
@@ -14,7 +14,7 @@
             Home
         </a>
 
-        
+
         <div class="relative group">
             <button class="flex items-center gap-1 text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
                 Portofolio
@@ -41,7 +41,7 @@
             Staf Molikom
         </a>
 
-       
+
         <div class="relative group">
             <button class="flex items-center gap-1 text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
                 News

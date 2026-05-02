@@ -23,19 +23,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet" />
 </head>
 
-<body class="bg-gray-500">
+<?php $pageTitle = 'Portofolio - Molikom'; ?>
+<?php require_once '../../app/views/layouts/head.php' ?>
+<?php require_once '../../app/views/layouts/navbar.php' ?>
 
-    <?php $pageTitle = 'Portofolio — Molikom'; ?>
-    <?php require_once '../../app/views/layouts/head.php'; ?>
-    <?php require_once '../../app/views/layouts/navbar.php'; ?>
 
-    
-    <main class="max-w-7xl mx-auto px-6 py-12">
-        ...
-    </main>
-
-    <?php require_once '../../app/views/layouts/footer.php'; ?>
-
-</body>
 
 </html>

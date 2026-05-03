@@ -1,6 +1,6 @@
 <?php require_once dirname(__DIR__, 3) . '/app/config/app.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 
 <head>
     <meta charset="UTF-8">

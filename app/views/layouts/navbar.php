@@ -25,7 +25,7 @@
             <div class="absolute top-full left-0 mt-1 w-40 bg-black border border-white/10
                   opacity-0 invisible group-hover:opacity-100 group-hover:visible
                   transition-all duration-200 rounded-sm">
-                <a href="/public/portofolio/index.php?kategori=about"
+                <a href="<?= BASE_URL ?>/index.php#About"
                     class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 border-b border-white/5 transition-colors">About</a>
                 <a href="/public/portofolio/index.php?kategori=motor"
                     class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 border-b border-white/5 transition-colors">Motor</a>

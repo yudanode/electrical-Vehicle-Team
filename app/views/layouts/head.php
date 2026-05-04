@@ -17,7 +17,19 @@
             }
         }
     </script>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <style>
+         .font-league {
+        font-family: 'League Gothic', sans-serif;
+        }
+        .font-poppins {
+        font-family: 'Poppins', sans-serif;
+        }
+        .font-racing {
+        font-family: 'Racing Sans One', cursive;
+        }
+    </style>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=League+Gothic&family=Poppins:wght@100;300;400;500;600;700;800;900&family=Racing+Sans+One&display=swap" rel="stylesheet"> 
     <title><?= $pageTitle ?? 'Molikom — Electrical Vehicle Team' ?></title>
 
 </head>

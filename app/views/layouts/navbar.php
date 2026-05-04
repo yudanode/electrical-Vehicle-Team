@@ -15,26 +15,10 @@
         </a>
 
 
-        <div class="relative group">
-            <button class="flex items-center gap-1 text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
-                Portofolio
-                <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
-                </svg>
-            </button>
-            <div class="absolute top-full left-0 mt-1 w-40 bg-black border border-white/10
-                  opacity-0 invisible group-hover:opacity-100 group-hover:visible
-                  transition-all duration-200 rounded-sm">
-                <a href="<?= BASE_URL ?>/index.php#About"
-                    class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 border-b border-white/5 transition-colors">About</a>
-                <a href="/public/portofolio/index.php?kategori=motor"
-                    class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 border-b border-white/5 transition-colors">Motor</a>
-                <a href="/public/portofolio/index.php?kategori=mobil"
-                    class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 border-b border-white/5 transition-colors">Mobil</a>
-                <a href="/public/portofolio/index.php?kategori=prototype"
-                    class="block px-5 py-3 text-sm text-gray-300 hover:text-white hover:bg-molikom-red/10 transition-colors">Prototype</a>
-            </div>
-        </div>
+        <a href="<?=  BASE_URL ?>/portofolio/index.php"
+            class="text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
+            Portofolio
+        </a>
 
         <a href="/public/staff/index.php"
             class="text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">

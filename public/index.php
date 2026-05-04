@@ -37,13 +37,13 @@
 
         <!-- ABOUT dan logo -->
         <div class="pt-16 flex justify-between">
-            <div>
+            <div class="max-w-xl" >
                 <h1 class="text-6xl font-league font-bold` ">About Us</h1><br>
-                <p class="font-poppins">MOLIKOM Adalah Tim Kendaraan Listrik Politeknik Negeri Madiun </p>
-                <p class="font-poppins">yang terbentuk pada tahun 2017 dan beranggotakan mahasiswa aktif Politeknik Negeri Madiun. </p>
-                <p class="font-poppins">Awalnya dibentuk sebagai pengembangan dari Tugas Akhir </p>
-                <p class="font-poppins">mahasiswa yang dinilai kompeten. Untuk ikut serta </p>
-                <p class="font-poppins">berkompetisi dalam ajang KMLI (Kompetisi Mobil Listrik Indonesia) Ke- IX Tahun 2018. </p>
+                <p class="font-poppins">MOLIKOM Adalah Tim Kendaraan Listrik Politeknik Negeri Madiun 
+                yang terbentuk pada tahun 2017 dan beranggotakan mahasiswa aktif Politeknik Negeri Madiun. 
+                Awalnya dibentuk sebagai pengembangan dari Tugas Akhir 
+                mahasiswa yang dinilai kompeten. Untuk ikut serta
+                berkompetisi dalam ajang KMLI (Kompetisi Mobil Listrik Indonesia) Ke- IX Tahun 2018. </p>
             </div>
 
             <div>

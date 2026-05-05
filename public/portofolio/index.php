@@ -29,12 +29,28 @@
 <section class="bg-[#000000] py-20">
     <div class="max-w-5x1 mx-auto px-8">
         <div class="flex items-center gap-11">
-            <div class="shrink w-[40%] ml-8">
+            <div class="shrink w-[40%] ml-10">
                 <h2 class="text-5x1 font-extrabold text-white mb-6">Fusena Evo 4</h2>
                 <p class="text-white text-base leading-relaxed">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam illo, explicabo beatae dolorem maiores voluptatibus, cupiditate dignissimos doloremque nulla enim, laborum suscipit? Minima eos facilis in maiores id. Aspernatur consequatur, blanditiis deleniti perferendis nam totam modi, eius temporibus cum adipisci exercitationem! Voluptates repellendus placeat ea repudiandae eos rem, sequi modi molestiae omnis obcaecati quis nulla perferendis suscipit fuga, voluptatem est aut atque, alias pariatur quae nam numquam. Ex blanditiis voluptates velit possimus illum quibusdam aut culpa officia impedit nesciunt veniam, eaque esse suscipit vitae earum dolor, unde minus iste labore. Totam excepturi reprehenderit est, expedita inventore assumenda ex corrupti doloribus.</p>
             </div>
             <div class="flex-1">
                 <img src="<?= BASE_URL ?>/assets/img/portofolio/fusena_evo.svg" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-[#c8c8c8] py-20">
+    <div class="max-w-5x1 mx-auto px-8 ">
+        <div class="flex items-center gap-12">
+            <div class="w-[40%] shrink-0">
+                <img src="<?= BASE_URL ?>/assets/img/portofolio/angkot.svg" alt="">
+            </div>
+            <div class="flex-1 ">
+                <h2 class="text-5x1 font-extrabold text-black mb-6" style="font-family: 'Arial Black', sans-serif;">Angkot Listrik</h2>
+                <p class="text-black text-base leading-relaxed">
+                    angkot listrik adalah blablabal Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident magnam cumque soluta perspiciatis, repudiandae quam fuga, odio, accusantium ipsam ullam deserunt eos. Dolor velit ullam, libero magni, esse, magnam nam asperiores accusantium dolorem ad adipisci laborum earum nostrum architecto et quam enim illum sapiente. Quaerat, deleniti magni? Nemo sed suscipit soluta quia. Eaque similique sed eligendi omnis obcaecati! Repellendus, voluptates!
+                </p>
             </div>
         </div>
     </div>

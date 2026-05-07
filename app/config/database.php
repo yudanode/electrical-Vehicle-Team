@@ -1,11 +1,7 @@
-<?php 
+<?php
 
-$conn = mysqli_connect("localhost","root","","molikom-admin");
+$conn = mysqli_connect("localhost", "root", "", "molikom-admin");
 
-if(!$conn){
-    die("database tidak tersambung!");
-}else{
-    echo "berhasil tersambung!";
+if (!$conn) {
+    die("Koneksi database gagal: " . mysqli_connect_error());
 }
-
-?>

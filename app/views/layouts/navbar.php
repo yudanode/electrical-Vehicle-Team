@@ -15,12 +15,12 @@
         </a>
 
 
-        <a href="<?=  BASE_URL ?>/portofolio/index.php"
+        <a href="<?= BASE_URL ?>/portofolio/index.php"
             class="text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
             Portofolio
         </a>
 
-        <a href="/public/staff/index.php"
+        <a href="<?= BASE_URL ?>/staff/index.php"
             class="text-white px-4 py-2 text-sm font-semibold uppercase tracking-widest hover:text-molikom-red transition-colors">
             Staf Molikom
         </a>
@@ -67,9 +67,9 @@
 
 <div id="mobile-menu" class="hidden fixed top-16 left-0 right-0 z-[9998] bg-black border-t border-white/10 lg:hidden">
     <div class="px-6 py-4 flex flex-col gap-1">
-        <a href="/public/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Home</a>
-        <a href="/public/portofolio/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Portofolio</a>
-        <a href="/public/staff/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Staf Molikom</a>
+        <a href="<?= BASE_URL ?>/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Home</a>
+        <a href="<?= BASE_URL ?>/portofolio/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Portofolio</a>
+        <a href="<?= BASE_URL ?>/staff/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Staf Molikom</a>
         <a href="/public/news/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">News</a>
         <a href="/public/contact/index.php" class="py-2 text-sm font-semibold uppercase tracking-widest text-white hover:text-molikom-red">Contact</a>
     </div>

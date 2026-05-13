@@ -29,7 +29,7 @@
 
                     <div class="absolute -top-3 -left-3 w-full h-full border-2 border-molikom-red rounded opacity-40"></div>
                     <div class="relative bg-[#2a2a2a] rounded overflow-hidden aspect-[4/3]">
-                        <img src="<?= BASE_URL ?>/assets/img/portofolio/shembrani.jpg"
+                        <img src="<?= BASE_URL ?>/assets/img/portofolio/shembrani.svg"
                             alt="Shembrani"
                             class="w-full h-full object-cover"
                             onerror="this.src='https://placehold.co/600x450/2a2a2a/666?text=Shembrani'" />

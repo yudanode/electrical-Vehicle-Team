@@ -31,6 +31,7 @@
     
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=League+Gothic&family=Poppins:wght@100;300;400;500;600;700;800;900&family=Racing+Sans+One&display=swap" rel="stylesheet"> 
     <title><?= $pageTitle ?? 'Molikom — Electrical Vehicle Team' ?></title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 </head>
 
